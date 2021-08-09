@@ -1,0 +1,33 @@
+.content-title{
+    text-align: center;
+    color: #ac1a1a;
+    padding-top: 50px;
+    font-weight: bolder;
+}
+
+.footer{
+    color: #ac1a1a;
+    text-align: center;
+}
+
+.service-content {
+  display: grid;
+  text-align: center;
+  grid-gap: 50px;
+  padding: 50px;
+}
+@media (min-width: 500px) {
+  .service-content {
+    grid-template-columns: repeat(2, auto);
+  }
+}
+@media (min-width: 786px) {
+  .service-content {
+    grid-template-columns: repeat(3, auto);
+  }
+}
+@media (min-width: 991px) {
+  .service-content {
+    grid-template-columns: repeat(4, auto);
+  }
+}

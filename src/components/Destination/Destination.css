@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+}
+
+.find-destination{
+    width: 30%;
+}
+.select-pick-point{
+    padding: 20px;
+}
+.available-service{
+    display: flex;
+    margin-left: 40px;
+}
+.service-result{
+    margin-right: 10px;
+}
