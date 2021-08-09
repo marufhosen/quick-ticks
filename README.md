@@ -3,8 +3,8 @@
 
 
 ## Key Technology
--- React
--- React Router
--- React Hooks
--- Material Ui
--- Firebase
+-- React\
+-- React Router\
+-- React Hooks\
+-- Material Ui\
+-- Firebase\
