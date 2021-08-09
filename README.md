@@ -7,4 +7,4 @@
 -- React Router\
 -- React Hooks\
 -- Material Ui\
--- Firebase\
+-- Firebase
